@@ -13,6 +13,8 @@ SNe_MCMC_animation.gif: Animation showing how the fit moves over the first few s
 
 WMAP_MCMC_animation.gif: Animation showing how the fit moves over the first few steps
 
+tests/test_helper_functions.py: Unit tests with nose library. Tests cover the components of the WMAP & SNe probability functions.
+
 
 Contributions:
 
