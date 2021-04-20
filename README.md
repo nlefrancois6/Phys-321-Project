@@ -10,6 +10,7 @@ Project_Main.ipynb: contains all of our data loading, fitting, and analysis figu
 helper_functions.py: contains all of the functions used for calculating posterior probabilities, correlated error model, MCMC fit analysis & plotting, animation of the fit, and overlaying the two posterior probability distributions.
 
 SNe_MCMC_animation.gif: Animation showing how the fit moves over the first few steps
+
 WMAP_MCMC_animation.gif: Animation showing how the fit moves over the first few steps
 
 
