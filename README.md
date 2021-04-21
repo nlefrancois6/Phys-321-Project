@@ -5,6 +5,8 @@ We applied an ensemble Markov Chain Monte Carlo (MCMC) technique to Cosmic Micro
 
 Contents:
 
+321_Final_Project.pdf: Project report
+
 Project_Main.ipynb: contains all of our data loading, fitting, and analysis figures.
 
 helper_functions.py: contains all of the functions used for calculating posterior probabilities, correlated error model, MCMC fit analysis & plotting, animation of the fit, and overlaying the two posterior probability distributions.
@@ -14,6 +16,8 @@ SNe_MCMC_animation.gif: Animation showing how the fit moves over the first 100 s
 WMAP_MCMC_animation.gif: Animation showing how the fit moves over the first 100 steps
 
 tests/test_helper_functions.py: Unit tests with nose library. Tests cover the components of the WMAP & SNe probability functions.
+
+Important Figures: This folder contains our final contribution to the McGill undergraduate physics meme literature. We present a range of novel approaches to historical portraits [Bayesian_Gogs.PNG],[Bayesian_Laser.PNG], with promising applications to biographical lecture slides, alongside a review of our unique group coding process. [supercomputer.jpg] Finally, we make closing remarks which markedly do *not* propose directions for future work. [graduation.jpg]
 
 
 # Contributions
