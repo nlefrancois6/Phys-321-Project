@@ -22,4 +22,4 @@ Ingrid: Helped trouble shoot the convergence of the MCMC, ran and generated all 
 
 Noah: Wrote prior, likelihood, and posterior functions, covariance model using correlated & uncorrelated errors, functions for plotting WMAP and SNe fits as well as animation of the fit. Wrote & ran testing functions, wrote function I/O header comments. Wrote report sections 2.4, 3.1, bibliography, and helped edit the paper.
 
-Katie:
+Katie: Wrote run_mcmc() function and code for determining convergence (plotting convergence as well), wrote code to run the mcmc with data, and helped set up remote server to run mcmc. Wrote report sections 1, 2.1, 2.2, 3.2 and edited paper. 
