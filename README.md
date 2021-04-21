@@ -18,7 +18,7 @@ tests/test_helper_functions.py: Unit tests with nose library. Tests cover the co
 
 # Contributions
 
-Ingrid: Helped trouble shoot the convergence of the MCMC, ran and generated all the plots for the lab as well as set up the remote server. Wrote intro for LambdaCDM. Wrote the results, discussion as well as all the figure captions. Wrote part of the bibliography. Created table 1 of the final results. Helped edit the final paper as well as formating the paper with the figures. 
+Ingrid: Helped trouble shoot the convergence of the MCMC, ran and generated all the plots for the lab as well as set up the remote server. Wrote intro for LambdaCDM. Wrote the results, discussion as well as all the figure captions. Wrote part of the bibliography. Created table 1 of the final results. Helped edit the final paper.
 
 Noah: Wrote prior, likelihood, and posterior functions, covariance model using correlated & uncorrelated errors, functions for plotting WMAP and SNe fits as well as animation of the fit. Wrote & ran testing functions, wrote function I/O header comments. Wrote report sections 2.4, 3.1, bibliography, and helped edit the paper.
 
