@@ -16,7 +16,7 @@ WMAP_MCMC_animation.gif: Animation showing how the fit moves over the first 100 
 tests/test_helper_functions.py: Unit tests with nose library. Tests cover the components of the WMAP & SNe probability functions.
 
 
-Contributions:
+# Contributions:
 
 Ingrid: Helped trouble shoot the convergence of the MCMC, ran and generated all the plots for the lab as well as set up the remote server. Wrote intro for LambdaCDM. Wrote the results, discussion as well as all the figure captions. Wrote part of the bibliography. Created table 1 of the final results. Helped edit the final paper as well as formating the paper with the figures. 
 
