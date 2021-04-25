@@ -1,0 +1,46 @@
+Final Project Marks
+----------------------------------------
+----------------------------------------
+Clear description of your problem: 5/5
+Approach to your problem: 10/10
+Technical execution: 25/25
+---Really nice touch with the automatic convergence testing!
+
+Documentation and testing: 5/5
+---Superbly well-documented code
+---Reasonable effort with automated tests
+
+Presentation of results: 5/5
+
+Interpretation of results: 10/10
+---The diagnosis of the CMB problems being due to a lack
+of a preference for H_0 is right on. I still remember when
+I was in grad school and presented a paper that had large
+error bars on H_0 from WMAP, and Paul Schechter (of Schechter
+Luminosity Function fame) said "that's right! The CMB alone
+has terrible error bars when it comes to H_0. The fact that
+people think the CMB can measure H_0 well is a MYTH PROPAGATED
+BY PRINCETON UNIVERSITY!" These days it's a little better
+because higher order effects in the CMB can break the
+degeneracy you're seeing here. If you want to dig a little
+bit into the degerenacy between Omega_k and H_0, look up
+the "geometric degeneracy" of the CMB. This is why most CMB
+papers *assume* that Omega_k = 0 when they do their fits.
+
+Creativity + critical thinking: 10/10
+---Nice use of animations!
+---Good comparisons with literature
+
+Overall communication: 5/5
+
+TOTAL: 75/75
+
+----------------------------------------
+General comments
+----------------------------------------
+It's a shame there wasn't enough time to see the full
+richness of the correlated errors, but that's ok! I imagine
+the three of you are almost done with your last finals
+as undergrads (if you're not already done). Congratulations
+and best of luck with what's next!
+
